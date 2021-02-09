@@ -1,4 +1,4 @@
-package CalculatorPackage;
+package com.test;
 
 public class Teste {
 
